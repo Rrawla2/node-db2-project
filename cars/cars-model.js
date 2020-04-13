@@ -10,4 +10,4 @@ function addCar(car) {
 
 
 
-module.exports = { getAll, addCar }
+module.exports = {getAll, addCar}
