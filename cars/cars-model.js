@@ -8,4 +8,6 @@ function addCar(car) {
     return db("cars").insert(car)
 }
 
+
+
 module.exports = { getAll, addCar }
